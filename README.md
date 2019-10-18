@@ -9,7 +9,7 @@ La Grangette Plantings Datasets
 
 ## Data Collection System
 
-[La Grangette system architecture wiki](https://www.notion.so/lagrangette/System-Architecture-945a75f11bc6476d929b727b4c478acc)
+[La Grangette system architecture wiki (Unit 4)](https://www.notion.so/lagrangette/2019-June-to-August-49f956a87ede4fe3a9b3b30007e75f2c)
 
 # Datasets
 
